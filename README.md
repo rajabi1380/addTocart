@@ -2,4 +2,4 @@
 
 # Demo😎👇
 
-click [here](https://rajbi1380.github.io/addTocart/) to see demo
+click [here](https://rajabi1380.github.io/addTocart/) to see demo
